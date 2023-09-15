@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movieshop/static/css/main.334bdeb1.css",
+    "main.js": "/movieshop/static/js/main.a4851546.js",
+    "index.html": "/movieshop/index.html",
+    "static/media/search.svg": "/movieshop/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/movieshop/static/css/main.334bdeb1.css.map",
+    "main.a4851546.js.map": "/movieshop/static/js/main.a4851546.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.a4851546.js"
+  ]
+}
